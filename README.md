@@ -3,7 +3,7 @@
 个人力扣题解归档。LeetHub+ 会在 Accepted 后提交代码、题目文件，并在下方更新进度。
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 6 (Easy: 3, Medium: 2, Hard: 1)
+Solved: 7 (Easy: 3, Medium: 3, Hard: 1)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -13,4 +13,5 @@ Solved: 6 (Easy: 3, Medium: 2, Hard: 1)
 | 104 | [二叉树的最大深度](104-maximum-depth-of-binary-tree/) | Easy | 2026-10-23 |
 | 63 | [不同路径 II](63-unique-paths-ii/) | Medium | 2026-10-23 |
 | 62 | [不同路径](62-unique-paths/) | Medium | 2026-10-23 |
+| 494 | [目标和](494-target-sum/) | Medium | 2026-10-23 |
 <!-- LEETHUB:TABLE:END -->
