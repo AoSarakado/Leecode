@@ -3,7 +3,7 @@
 个人力扣题解归档。LeetHub+ 会在 Accepted 后提交代码、题目文件，并在下方更新进度。
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 8 (Easy: 3, Medium: 4, Hard: 1)
+Solved: 9 (Easy: 3, Medium: 5, Hard: 1)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -15,4 +15,5 @@ Solved: 8 (Easy: 3, Medium: 4, Hard: 1)
 | 62 | [不同路径](62-unique-paths/) | Medium | 2026-10-23 |
 | 494 | [目标和](494-target-sum/) | Medium | 2026-10-23 |
 | 416 | [分割等和子集](416-partition-equal-subset-sum/) | Medium | 2026-10-23 |
+| 322 | [零钱兑换](322-coin-change/) | Medium | 2026-10-23 |
 <!-- LEETHUB:TABLE:END -->
