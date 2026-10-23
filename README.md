@@ -3,7 +3,7 @@
 个人力扣题解归档。LeetHub+ 会在 Accepted 后提交代码、题目文件，并在下方更新进度。
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 10 (Easy: 3, Medium: 6, Hard: 1)
+Solved: 11 (Easy: 4, Medium: 6, Hard: 1)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -17,4 +17,5 @@ Solved: 10 (Easy: 3, Medium: 6, Hard: 1)
 | 416 | [分割等和子集](416-partition-equal-subset-sum/) | Medium | 2026-10-23 |
 | 322 | [零钱兑换](322-coin-change/) | Medium | 2026-10-23 |
 | 198 | [打家劫舍](198-house-robber/) | Medium | 2026-10-23 |
+| 746 | [使用最小花费爬楼梯](746-min-cost-climbing-stairs/) | Easy | 2026-10-23 |
 <!-- LEETHUB:TABLE:END -->
